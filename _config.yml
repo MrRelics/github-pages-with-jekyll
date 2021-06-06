@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Gamers Blog (Paladins Edition) 
+author: Mr.Relics
+email: christopherjr2bro@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  This is a gamer blog and the game I will be covering today is called Paladins. This game is very fun to play and not that hard to learn. You can choose from a vareity of charaters 
+  , you want to pick a character that is easy to use and suits your play style. Each round lasts about 10 minutes depenending on how long it takes you to reach the goal for the game.
+  In this this blog I will go into more detail about this game, so make sure you tune in. 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: senorrelics
+github_username:  MrRelics
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme : minima 
