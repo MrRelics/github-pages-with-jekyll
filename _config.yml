@@ -1,3 +1,4 @@
+theme : minima 
 title: Gamers Blog (Paladins Edition) 
 author: Mr.Relics
 email: christopherjr2bro@gmail.com 
@@ -10,4 +11,3 @@ twitter_username: senorrelics
 github_username:  MrRelics
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme : minima 
